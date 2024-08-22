@@ -1,0 +1,283 @@
+* {
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.decor1 {
+    width: 592px;
+    height: 117px;
+    flex-shrink: 0;
+    background-color: #95DBF5;
+    margin-top: 65px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30pt;
+}
+
+.img1 {
+    background: url(1660060831-safetravelinda_hero.jpg) lightgray 50% / cover no-repeat;
+    width: 592px;
+    height: 294px;
+    flex-shrink: 0;
+}
+
+.img2 {
+    width: 110px;
+    height: 110px;
+    flex-shrink: 0;
+    background: url(HVMP9921.JPEG) lightgray 50% / cover no-repeat;
+    position: absolute;
+    z-index: 1;
+    top: 230px;
+    left: 485px;
+}
+
+.img2:hover {
+    width: 700px;
+    height: 410px;
+    position: relative;
+    z-index: 1;
+    top: -10px;
+    left: 0px;
+    background: url(Untitled.jpg) lightgray 50% / cover no-repeat;
+}
+
+.img3 {
+    width: 110px;
+    height: 110px;
+    flex-shrink: 0;
+    background: url(38d7b0c002b90485f748e6cc2d99c0bb.jpg) lightgray 50% / cover no-repeat;
+    position: absolute;
+    z-index: 1;
+    top: 230px;
+    left: 932px;
+}
+
+.img3:hover {
+    width: 700px;
+    height: 410px;
+    position: relative;
+    z-index: 1;
+    top: -10px;
+    left: 0px;
+    background: url(h4.png) lightgray 50% / cover no-repeat;
+}
+
+.img4 {
+    width: 110px;
+    height: 110px;
+    flex-shrink: 0;
+    background: url(d9a5d59eab9d45c31c8c.jpg) lightgray 50% / cover no-repeat;
+    position: absolute;
+    z-index: 1;
+    top: 380px;
+    left: 485px;
+}
+
+.img4:hover {
+    width: 700px;
+    height: 410px;
+    position: relative;
+    z-index: 1;
+    top: -10px;
+    left: 0px;
+    background: url(h2.png) lightgray 50% / cover no-repeat;
+}
+
+.img5 {
+    width: 110px;
+    height: 110px;
+    flex-shrink: 0;
+    background: url(6f989b1771079159c816.jpg) lightgray 50% / cover no-repeat;
+    position: absolute;
+    z-index: 1;
+    top: 380px;
+    left: 932px;
+}
+
+.img5:hover {
+    width: 700px;
+    height: 410px;
+    position: relative;
+    z-index: 1;
+    top: -10px;
+    left: 0px;
+    background: url(h3.png) lightgray 50% / cover no-repeat;
+}
+
+.textindia {
+    width: 307px;
+    height: 256px;
+    flex-shrink: 0;
+    position: absolute;
+    z-index: 1;
+    top: 230px;
+    left: 610px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.textpro {
+    color: #FF8A00;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: rgba(255, 255, 255, 0);
+    text-shadow: -1px -1px 0 rgba(75, 156, 181, 0.54),
+        1px -1px 0 rgba(75, 156, 181, 0.54),
+        -1px 1px 0 rgba(75, 156, 181, 0.54),
+        1px 1px 0 rgba(75, 156, 181, 0.54);
+}
+
+.textfrom {
+    color: #ffffff;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: rgba(255, 255, 255, 0);
+    text-shadow: -1px -1px 0 rgba(75, 156, 181, 0.54),
+        1px -1px 0 rgba(75, 156, 181, 0.54),
+        -1px 1px 0 rgba(75, 156, 181, 0.54),
+        1px 1px 0 rgba(75, 156, 181, 0.54);
+    margin-top: 40px;
+}
+
+.textI {
+    color: rgba(0, 255, 25, 0.88);
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: rgba(255, 255, 255, 0);
+    text-shadow: -1px -1px 0 rgba(75, 156, 181, 0.54),
+        1px -1px 0 rgba(75, 156, 181, 0.54),
+        -1px 1px 0 rgba(75, 156, 181, 0.54),
+        1px 1px 0 rgba(75, 156, 181, 0.54);
+    margin-top: 40px;
+}
+
+.decor2 {
+    width: 454px;
+    height: 82px;
+    flex-shrink: 0;
+    border-radius: 0px 0px 50px 50px;
+    background: #95DBF5;
+    margin-top: 21px;
+}
+
+.textout {
+    color: #000;
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: #95DBF5;
+    padding-top: 18px;
+    width: 300px;
+}
+
+.decor3 {
+    width: 421px;
+    height: 35px;
+    flex-shrink: 0;
+    border-radius: 20px 20px 0px 0px;
+    background: #cbf1ff;
+    margin-top: 18px;
+}
+
+.textother {
+    color: black;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: #cbf1ff;
+    width: 300px;
+    height: 10px;
+}
+
+.imgp1 {
+    border: 1px solid #000;
+    background: url(sợ-di-làm-696x392.jpg) lightgray 50% / cover no-repeat;
+    width: 454px;
+    height: 129px;
+    flex-shrink: 0;
+    margin-top: 18px;
+}
+
+.imgp1:hover {
+    width: 500px;
+    height: 210px;
+    position: relative;
+    z-index: 1;
+    top: -150px;
+    left: 0px;
+    background: url(xam1.png) lightgray 50% / cover no-repeat;
+}
+
+.imgp2 {
+    border: 1px solid #000;
+    background: url(benh-ngu-ga.jpg) lightgray 50% / cover no-repeat;
+    width: 454px;
+    height: 129px;
+    flex-shrink: 0;
+    margin-top: 32px;
+}
+
+.imgp2:hover {
+    width: 500px;
+    height: 210px;
+    position: relative;
+    z-index: 1;
+    top: -100px;
+    left: 0px;
+    background: url(xam2.png) lightgray 50% / cover no-repeat;
+}
+
+.project1 {
+    color: #89DDFC;
+    text-align: center;
+    -webkit-text-stroke-width: 1;
+    -webkit-text-stroke-color: rgba(0, 0, 0, 0.42);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: rgba(255, 255, 255, 0);
+    text-shadow: -1px -1px 0 rgba(20, 24, 25, 0.54),
+        1px -1px 0 rgba(20, 24, 25, 0.54),
+        -1px 1px 0 rgba(20, 24, 25, 0.54),
+        1px 1px 0 rgba(20, 24, 25, 0.54);
+    margin-top: 45px;
+}
+
+.V {
+    position: absolute;
+    top: 805px;
+    left: 362px;
+    background-color: rgba(255, 255, 255, 0);
+    width: 214.5px;
+    height: 228px;
+    flex-shrink: 0;
+    fill: #000;
+}
+
+.iconmuiten {
+    position: absolute;
+    top: 600px;
+    left: 1050px;
+}
+
+.aboutme {
+    width: 115px;
+    height: 58px;
+    flex-shrink: 0;
+    border-radius: 50px 0px 0px 50px;
+    background: #95DBF5;
+    position: absolute;
+    top: 600px;
+    left: 1050px;
+}
